@@ -1,0 +1,336 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&family=Sofia+Sans+Extra+Condensed:wght@200&display=swap');
+
+
+html
+{
+    text-align: center;
+    align-items: center;
+}
+
+
+body
+
+{
+    margin-top: 65px;
+    margin-bottom: 80px;
+    text-align: center;
+    align-items: center;
+    background-image: url('petition4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: no-repeat;
+    background-color: transparent;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+
+div.bloc_page {
+    position: relative;
+    width: 1097px;
+    margin: 50px 50px 150px 50px;
+ }
+
+ul
+
+{
+    display: flex;
+    border: 2px solid black;
+    width: 422px;
+    margin-left: 350px;
+    margin-right: 900px;
+    font-size: 28px;
+        
+}
+
+li
+
+{
+    list-style: none;
+}
+
+a
+{
+    margin-left: 50px;
+}
+
+
+h1
+
+{
+    margin-left: 100px;
+    text-decoration: underline;
+}
+
+h3
+
+{
+    text-decoration: underline;
+    font-size: 22px;
+}
+
+#bloc_page
+
+{
+    
+    background-color: transparent;
+    position: relative;
+    width: 1097px;
+    margin: auto;
+    zoom: 75%;
+    border-radius: 20px;
+    border: 3px solid black;
+    padding-bottom: 50px;
+    /*box-shadow: 5px 15px blanchedalmond;*/
+}
+
+#main_section
+{
+
+    margin-left: -755px;
+}
+
+
+
+input
+
+{
+    margin-left: 1150px;
+    display: block;
+}
+
+
+
+h3
+
+{
+    margin-top: 80px;
+    margin-bottom: 55px;
+}
+
+
+/*#first_line
+
+{
+    border-bottom: 2px solid black;
+    border-width: 2px;
+
+}*/
+
+#first_input
+
+{
+    border-radius: 8px;
+    margin-top: 100px;
+    margin-left: 955px;
+    font-size: larger;
+}
+
+
+#second_input
+{
+    border-radius: 8px;
+    margin-left: 1400px;
+    margin-bottom: 144px;
+    margin-top: -26px;
+    font-size: larger;
+}
+
+
+
+#number
+
+{
+    margin-left: 1200px;
+    margin-top: -133px;
+}
+
+
+/*#second_line
+
+{
+
+    border-bottom: 2px solid black;
+    border-width: 2px;
+
+}*/
+
+#third_input
+{
+    border-radius: 8px;
+    margin-left: 960px;
+    margin-bottom: 55px;
+    margin-top: -19px;
+    font-size: larger;
+}
+
+#fourth_input
+
+{
+    border-radius: 8px;
+    margin-left: 1400px;
+    margin-bottom: 55px;
+    margin-top: -25px;
+    font-size: larger;
+}
+
+#city
+
+{
+    margin-left: 1200px;
+    margin-top: -103px;
+
+}
+
+#fifth_input
+{
+    border-radius: 8px;
+    margin-left: 960px;
+    margin-bottom: -50px;
+    margin-top: -19px;
+    font-size: larger;
+}
+
+#sixth_input
+
+{
+    border-radius: 8px;
+    margin-left: 1400px;
+    margin-bottom: 55px;
+    margin-top: -19px;
+    font-size: larger;
+}
+
+#seventh_input
+
+{
+    border-radius: 8px;
+    margin-left: 960px;
+    margin-bottom: 25px;
+    margin-top: -19px;
+    font-size: larger;
+}
+
+#eighth_input
+
+{
+    border-radius: 8px;
+    margin-left: 1400px;
+    margin-bottom: 55px;
+    margin-top: -55px;
+    font-size: larger;
+
+}
+
+
+
+
+
+
+
+#comment
+
+{
+    margin-top: 50px;
+    font-size: larger;
+    width: 650px;
+    height: 300px;
+}
+
+
+#sign
+
+{
+    margin-top: 50px;
+    font-size: larger;
+}
+
+form
+
+{
+    margin-left:50px;
+    margin-top:50px
+}
+
+p
+{
+    margin-right: -600px;
+}
+
+
+button
+{
+    color: black;
+}
+
+
+
+textarea
+
+{
+    background-color: transparent;
+    align-items: center;
+    border-radius: 15px;
+}
+
+input.lieu
+
+{
+    border-radius: 30px;
+    font-size: larger;
+}
+
+input.date
+
+{
+    border-radius: 30px;
+    margin-top: 10px;
+    font-size: larger;
+}
+
+section.date_lieu
+
+{
+    margin-left: -930px;
+    border-radius: 40px;
+}
+
+
+.item1
+
+{
+    margin-right: 20px;
+}
+
+
+
+
+input.submit
+{
+    margin-left: 600px;
+    font-size: large;
+    
+}
+
+
+input#newslet-oui
+{
+    margin-left: 550px;
+}
+
+input#newslet-non
+{
+    margin-left: 550px;
+}
+
+input#nom-01
+
+{
+    margin-left: 550px;
+}
+
+label.approuve
+
+{
+    font-weight: bold;
+    font-size: larger;
+}
